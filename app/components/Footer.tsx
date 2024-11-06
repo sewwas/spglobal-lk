@@ -128,8 +128,9 @@ export default function Footer() {
               >
                 <MapPin size={20} className="text-gold mt-1 flex-shrink-0" />
                 <div className="text-gray-400">
-                  123 Innovation Drive<br />
-                  Colombo 00500<br />
+                  No.123 <br />
+                  Cotta Road,<br />
+                  Borella<br />
                   Sri Lanka
                 </div>
               </motion.li>
@@ -138,8 +139,8 @@ export default function Footer() {
                 className="flex items-center space-x-3"
               >
                 <Phone size={20} className="text-gold flex-shrink-0" />
-                <a href="tel:+94112345678" className="text-gray-400 hover:text-gold transition-colors">
-                  +94 11 234 5678
+                <a href="tel:+94114701120" className="text-gray-400 hover:text-gold transition-colors">
+                  +9411 4701 120
                 </a>
               </motion.li>
               <motion.li 

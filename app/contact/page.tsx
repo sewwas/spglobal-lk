@@ -63,8 +63,8 @@ export default function ContactPage() {
             {
               icon: Phone,
               title: 'Call Us',
-              content: '+94 11 234 5678',
-              link: 'tel:+94112345678'
+              content: '+94 11 4701 120',
+              link: 'tel:+94114701120'
             },
             {
               icon: Mail,
@@ -75,7 +75,7 @@ export default function ContactPage() {
             {
               icon: MapPin,
               title: 'Visit Us',
-              content: 'Colombo, Sri Lanka',
+              content: 'No.222,Cotta Road, Borella, Sri Lanka',
               link: 'https://maps.google.com'
             }
           ].map((method, index) => (
